@@ -62,5 +62,5 @@ There are 5 parts:
 * Extract the mean and standard deviation column names and data.
 * Process the data. There are two parts processing test and train data respectively.
 * Merge data set.
-*Write data to file ```tidy_data.txt``` with no rownames.
+* Write data to file ```tidy_data.txt``` with no rownames.
 
